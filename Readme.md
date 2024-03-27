@@ -1,2 +1,2 @@
 # Collection of talks
-- [[0. 🤓 Redux 101 || Redux talk]]
+- [| Redux talk](0.%20🤓%20Redux%20101%20)
