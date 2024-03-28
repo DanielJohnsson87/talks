@@ -1,2 +1,2 @@
 # Collection of talks
-- [Redux 101](0.Redux-101.md)
+- [Redux 101](Redux-talk/0.Redux-101.md)
