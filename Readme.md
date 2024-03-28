@@ -1,2 +1,2 @@
 # Collection of talks
-- [Redux 101](/Redux-talk/resources/0.%20🤓%20Redux%20101.md)
+- [Redux 101](0.Redux-101.md)
